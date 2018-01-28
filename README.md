@@ -1,6 +1,7 @@
-# SCE
-Suranaree Container Engine
+# Suranaree Container Engine
 
-SCE is a Moby-based container engine for research.
+Suranaree Container Engine หรือ SCE (เอสซีอี) เป็นคอนเทนเนอร์เอ็นจินที่ใช้ฐานเดียวกับด็อกเกอร์โดยพัฒนาต่อจากรุ่น stable ของแต่ละซีรีย์ เช่น 17.06.2 และ 17.09.1
 
-Release 17.06 series along with 17.09.
+สำหรับ เอสซีอี รุ่น 17.06.2p ได้ทำการแพชต์เพิ่มในรูปแบบเดียวกับรุ่นเอ็นเตอร์ไพร์สของด็อกเกอร์ดังนี้
+
+  * เอสซีอี รุ่น 17.06.2p40 เทียบเท่า ด็อกเกอร์ 17.06.2 เอ็นเตอร์ไพร์ส 5
